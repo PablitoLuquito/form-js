@@ -88,3 +88,13 @@ form button:hover {
   color: white;
   font-weight: 700;
 }
+
+@media (max-width: 425px) {
+  .calculadora {
+    width: auto;
+  }
+  .container {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
